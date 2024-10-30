@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **developing my skills!**
-- 
-- - 👀 I’m interested in **virtual reality**
+  
+- 👀 I’m interested in **virtual reality**
 
 - 👯 I’m looking to collaborate on **any open source VR projects**
 
